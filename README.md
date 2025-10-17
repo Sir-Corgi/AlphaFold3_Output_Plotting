@@ -3,7 +3,7 @@
 This tool produces two heatmaps and reports the **predicted TM-score (pTM)** and **inter-chain predicted TM-score (ipTM)**.
 
 **“Results Preview”**
-![Heatmaps preview](
+![Heatmaps preview](review_heatmap.png)
 
 ## Getting started / installation
 
