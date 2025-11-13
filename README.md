@@ -2,6 +2,8 @@
 
 This tool produces two heatmaps and reports the **predicted TM-score (pTM)** and **inter-chain predicted TM-score (ipTM)**.
 
+![preview of the outputted figures using a single chain or multiple chain AF3 output](review_heatmap_bg.png)
+
 ## Getting started / installation
 
 To get started using the tool, clone the repo:
